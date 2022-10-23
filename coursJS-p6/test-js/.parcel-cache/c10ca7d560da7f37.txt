@@ -1,0 +1,9 @@
+8
+40C:\laragon\www\coursJS-p6\test-js\add.js133011508243722994 0
+46C:\laragon\www\coursJS-p6\test-js\package.json133011513845016066 0
+38C:\laragon\www\coursJS-p6\test-js\dist133011506668819361 1
+56C:\laragon\www\coursJS-p6\test-js\dist\index.c36f364e.js133011506668505110 0
+44C:\laragon\www\coursJS-p6\test-js\index.html133011514890611660 0
+49C:\laragon\www\coursJS-p6\test-js\dist\index.html133011506668505110 0
+42C:\laragon\www\coursJS-p6\test-js\index.js133011511155695108 0
+60C:\laragon\www\coursJS-p6\test-js\dist\index.c36f364e.js.map133011506668819361 0

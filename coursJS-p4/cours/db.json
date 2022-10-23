@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "pseudo": "Gaelle",
+      "message": "Salut tout le monde",
+      "id": 1
+    }
+  ],
+  "users": [
+    {
+      "pseudo": "Gaelle",
+      "message": "29",
+      "id": 1
+    }
+  ]
+}
